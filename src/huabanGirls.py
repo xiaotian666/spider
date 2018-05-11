@@ -5,7 +5,7 @@ import time
 
 global PhotoNum
 PhotoNum = 0
-PWD = "E:/Python/huaban/"
+PWD = "F:/python学习/Python/huaban/"
 head = {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6'}
 TimeOut = 30
 
